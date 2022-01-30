@@ -1,2 +1,3 @@
 # st
-My suckless terminal build
+st - simple terminal
+      
